@@ -1,0 +1,10 @@
+TestUser TestPass
+Fred FredPassword
+User password
+Username Password
+CoolUser CoolPassword
+CoolUser CoolPassword
+Coool Useeeeere
+Nice1 Nice23
+NiceUser NicePassword
+Username Password
