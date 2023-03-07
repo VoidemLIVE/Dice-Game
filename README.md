@@ -11,7 +11,7 @@ As simple as that.
 ## Why i made this
 
 At school for my GCSE Computer Science course i was given 3 options of things to program in python. I chose the dice game and had to follow a brief.
-I made this in July but only just though about uploading it to Github.
+I made this in July but only just thought about uploading it to Github.
 
 ## The brief i was given from my school
 
